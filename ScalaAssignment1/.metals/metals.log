@@ -1,0 +1,11 @@
+2022.10.07 12:24:38 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/.metals/lsp.trace.json or /Users/nicolaimolstad/Library/Caches/org.scalameta.metals/lsp.trace.json
+2022.10.07 12:24:39 INFO  logging to file /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/.metals/metals.log
+2022.10.07 12:24:39 INFO  Started: Metals version 0.11.9 in workspace '/Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1' for client Visual Studio Code 1.71.2.
+2022.10.07 12:24:40 INFO  time: initialize in 1.74s
+2022.10.07 12:24:43 WARN  Build server is not auto-connectable.
+2022.10.07 12:24:43 WARN  no build tool detected in workspace '/Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.10.07 12:24:43 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/project_tasks/src/main/scala/Main.scala
+2022.10.07 12:24:50 INFO  no build target found for /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/project_tasks/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.2.0
+2022.10.07 12:24:53 INFO  time: code lens generation in 9.37s
+2022.10.07 12:24:53 INFO  time: code lens generation in 8.39s
+2022.10.09 12:03:35 INFO  shutting down Metals
