@@ -1,0 +1,28 @@
+
+TASK 3 ASSIGNMENT 2
+
+a) Formally describe the regular grammar of the lexemes in Task 1
+
+We have 3 different lexemes in task 1, they are numbers, operators and commands
+
+<number> ::= 1 | 2 | 3 | 4 | 5
+
+<operator> ::= + | - | * | / 
+
+<command> ::= p | d | i | c
+
+b)  Describe the grammar of the records returned by the ExpressionTree function in Task 3, using (E)BNF.
+
+If (E)BNF is the way used in a) the solution should be stated as,
+
+<record> ::=
+        | plus(<statement>)
+        | minus(<statement>)
+        | multiply(<statement>)
+        | divide(<statement>)
+
+c) Which kind of grammar is the grammar you defined in step a)? Is it regular, context-free, context-sensitive,
+or unconstrained? What about the one from step b)?
+    step a) regular
+    steb b) context-sensitive
+
