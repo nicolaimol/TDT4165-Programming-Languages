@@ -6,13 +6,24 @@ This was not the case for my implementation of Sum in task 2.
  */
 
 fun {TailSum List}
-    fun {Iterate List Sum}
+    fun {TailSumTail List Sum}
         case List of Head|Tail then
-            {Iterate Tail Head + Sum}
+            {TailSumTail Tail Head + Sum}
         else
             Sum
         end
     end
 in
-    {Iterate List 0}
+    {TailSumTail List 0}
 end
+
+/* 
+b) 
+    in oz tail recursion is beneficial because of the ability to implement functions with unbound variables. 
+    these variables will be assigned at runtime of function, therefore Oz can recognize patterns and skip steps in the calculations.
+    this will save us memory and increase performance.
+
+c)
+    runtime wise i will say that all languages benefits from this, however languages made with good debuging can be harmed by this because
+    of the fact that it eliminates the backtrack possibility.
+*/
