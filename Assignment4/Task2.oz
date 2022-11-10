@@ -4,8 +4,11 @@
 fun {Enumerate Start End} 
     local Tail in
         if Start =< End then
-            thread Tail = {Enumerate (Start+1) End} end
-            Start | Tail
+            
+                Tail = thread {Enumerate (Start+1) End} end
+            
+
+            Start | {List.take Tail End-Start}
         else
             nil
         end

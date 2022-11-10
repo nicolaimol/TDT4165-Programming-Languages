@@ -56,3 +56,72 @@ end
 % The end is dependent on B, so it has to be printed last.
 % B will only be printed after A is printed, and A is printed after the thread is done.
 % We can see that the threads are executed in parallel as A and B are printed before C is declared and that C is dependent on A and B
+
+% Implement a function fun {Enumerate Start End} that generates, asynchronously, 
+% a stream of numbers from Start until End.
+
+fun {Enumerate Start End} 
+    local Tail in
+        if Start =< End then
+            
+                Tail = thread {Enumerate (Start+1) End} end
+            
+
+            Start | {List.take Tail End-Start}
+        else
+            nil
+        end
+    end
+end
+
+fun {GenerateOdd Start End} List in
+    List = {Enumerate Start End}
+
+    {Filter List Int.isOdd}
+end
+
+
+fun {ListDivisorsOf Number}
+    local PosibleDivisors in 
+        PosibleDivisors = {Enumerate 1 Number }
+        {Filter PosibleDivisors fun {$ Var}
+            
+            (Number mod Var) == 0 end}
+    end
+end
+
+fun {ListPrimesUntil N}
+    local Numbers in
+        Numbers = {Enumerate 2 N}
+        
+        {Filter Numbers fun {$ Var}
+            {ListDivisorsOf Var} == [1 Var] end}
+    end
+end
+
+fun lazy {EnumerateLazy} EnumerateInner in
+    fun lazy {EnumerateInner N}
+        N | {EnumerateInner N + 1}
+    end
+
+    {EnumerateInner 1}
+end
+
+fun lazy {PrimesLazy}
+    local FilterLazy in
+        fun lazy {FilterLazy Numbers Function}
+            case Numbers of Head|Tail then
+                if {Function Head} then
+                    Head | {FilterLazy Tail Function}
+                else
+                    {FilterLazy Tail Function}
+                end
+            else nil
+            end
+        end
+
+        {FilterLazy {EnumerateLazy} fun {$ Var}
+            {ListDivisorsOf Var} == [1 Var] end}
+    end
+    
+end

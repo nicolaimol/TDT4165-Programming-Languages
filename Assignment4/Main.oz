@@ -8,7 +8,7 @@ define
     \insert Task4.oz
 
     {System.show 'Task2'}
-    {System.show {List.take {Enumerate 1 5} 5}}
+    {System.show {Enumerate 1 5}}
     {System.show {GenerateOdd 1 5}}
     {System.show {GenerateOdd 4 4}}
 
@@ -17,8 +17,8 @@ define
     {System.show {ListPrimesUntil 12}}
 
     {System.show 'Task4'}
-    {System.show {List.take {EnumerateLazy} 10}}
-    {System.show {List.take {PrimesLazy} 10}}
+    {System.show {List.take {EnumerateLazy} 5}}
+    {System.show {List.take {PrimesLazy} 5}}
 
 
 end

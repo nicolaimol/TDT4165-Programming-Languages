@@ -1,5 +1,5 @@
 fun lazy {EnumerateLazy} EnumerateInner in
-    fun {EnumerateInner N}
+    fun lazy {EnumerateInner N}
         N | {EnumerateInner N + 1}
     end
 
