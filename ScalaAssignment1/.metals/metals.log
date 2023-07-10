@@ -9,3 +9,590 @@
 2022.10.07 12:24:53 INFO  time: code lens generation in 9.37s
 2022.10.07 12:24:53 INFO  time: code lens generation in 8.39s
 2022.10.09 12:03:35 INFO  shutting down Metals
+2022.10.13 20:54:13 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/.metals/lsp.trace.json or /Users/nicolaimolstad/Library/Caches/org.scalameta.metals/lsp.trace.json
+2022.10.13 20:54:14 INFO  logging to file /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/.metals/metals.log
+2022.10.13 20:54:14 INFO  Started: Metals version 0.11.9 in workspace '/Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1' for client Visual Studio Code 1.72.0.
+2022.10.13 20:54:16 INFO  time: initialize in 2.48s
+2022.10.13 20:54:19 WARN  Build server is not auto-connectable.
+2022.10.13 20:54:19 WARN  no build tool detected in workspace '/Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.10.13 20:54:19 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/project_tasks/src/main/scala/Main.scala
+2022.10.13 20:54:24 INFO  no build target found for /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/project_tasks/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.2.0
+2022.10.13 20:54:27 INFO  time: code lens generation in 7.99s
+2022.10.13 20:54:58 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/project_tasks/src/main/scala/Account.scala
+2022.10.13 20:55:01 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/project_tasks/src/main/scala/Bank.scala
+2022.10.13 20:55:26 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/project_tasks/src/main/scala/Main.scala
+2022.10.13 20:55:30 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/project_tasks/src/main/scala/Transaction.scala
+2022.10.13 20:56:26 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala.scala
+2022.10.13 20:56:35 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala.scala
+2022.10.13 20:56:41 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/project_tasks/src/main/scala/Main.scala
+2022.10.13 20:56:47 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala.scala
+2022.10.13 20:56:49 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala.scala
+2022.10.13 20:56:55 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala.scala
+2022.10.13 20:56:57 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala.scala
+2022.10.13 20:57:03 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala.scala
+2022.10.13 20:57:38 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 20:57:45 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 20:57:52 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 20:57:53 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 20:57:56 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 20:58:02 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 20:58:05 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 20:58:14 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 20:58:20 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 20:58:40 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 20:58:41 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 20:58:46 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 20:58:52 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 20:58:53 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 20:58:56 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 20:58:57 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 20:59:24 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/project_tasks/src/main/scala/Account.scala
+2022.10.13 20:59:40 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 20:59:43 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 20:59:45 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 20:59:49 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:00:07 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:00:18 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:00:19 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:00:22 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:00:51 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:00:56 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:01:00 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:01:03 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:01:05 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:01:08 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:01:13 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:02:05 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:02:07 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:02:08 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:02:11 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:02:13 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:02:17 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:02:18 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:02:19 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:02:38 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:02:43 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:03:13 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:03:14 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:03:15 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+okt. 13, 2022 9:03:29 P.M. scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: NoDenotation.owner
+java.lang.AssertionError: NoDenotation.owner
+	at dotty.tools.dotc.core.SymDenotations$NoDenotation$.owner(SymDenotations.scala:2499)
+	at scala.meta.internal.pc.SignatureHelpProvider$.isValid(SignatureHelpProvider.scala:88)
+	at scala.meta.internal.pc.SignatureHelpProvider$.notCurrentApply(SignatureHelpProvider.scala:101)
+	at scala.meta.internal.pc.SignatureHelpProvider$.$anonfun$1(SignatureHelpProvider.scala:49)
+	at scala.collection.StrictOptimizedLinearSeqOps.loop$3(LinearSeq.scala:280)
+	at scala.collection.StrictOptimizedLinearSeqOps.dropWhile(LinearSeq.scala:282)
+	at scala.collection.StrictOptimizedLinearSeqOps.dropWhile$(LinearSeq.scala:278)
+	at scala.collection.immutable.List.dropWhile(List.scala:79)
+	at scala.meta.internal.pc.SignatureHelpProvider$.signatureHelp(SignatureHelpProvider.scala:49)
+
+2022.10.13 21:03:31 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:03:36 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:03:41 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:04:10 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:04:12 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:06:18 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:06:21 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:06:28 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:06:30 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:06:34 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+okt. 13, 2022 9:06:53 P.M. scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: NoDenotation.owner
+java.lang.AssertionError: NoDenotation.owner
+	at dotty.tools.dotc.core.SymDenotations$NoDenotation$.owner(SymDenotations.scala:2499)
+	at scala.meta.internal.pc.PcDocumentHighlightProvider$.isForComprehensionOwner$1(PcDocumentHighlightProvider.scala:163)
+	at scala.meta.internal.pc.PcDocumentHighlightProvider$.collectNames$1(PcDocumentHighlightProvider.scala:178)
+	at scala.meta.internal.pc.PcDocumentHighlightProvider$.$anonfun$4(PcDocumentHighlightProvider.scala:275)
+	at dotty.tools.dotc.ast.Trees$Instance$DeepFolder.apply(Trees.scala:1669)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1554)
+	at dotty.tools.dotc.ast.Trees$Instance$DeepFolder.apply(Trees.scala:1669)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1619)
+	at dotty.tools.dotc.ast.Trees$Instance$DeepFolder.apply(Trees.scala:1669)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.fold$1(Trees.scala:1535)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.apply(Trees.scala:1537)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1568)
+	at dotty.tools.dotc.ast.Trees$Instance$DeepFolder.apply(Trees.scala:1669)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1623)
+	at dotty.tools.dotc.ast.Trees$Instance$DeepFolder.apply(Trees.scala:1669)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.fold$1(Trees.scala:1535)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.apply(Trees.scala:1537)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1630)
+	at dotty.tools.dotc.ast.Trees$Instance$DeepFolder.apply(Trees.scala:1669)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1627)
+	at dotty.tools.dotc.ast.Trees$Instance$DeepFolder.apply(Trees.scala:1669)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.fold$1(Trees.scala:1535)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.apply(Trees.scala:1537)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1636)
+	at dotty.tools.dotc.ast.Trees$Instance$TreeAccumulator.foldOver(Trees.scala:1541)
+	at dotty.tools.dotc.ast.Trees$Instance$DeepFolder.apply(Trees.scala:1669)
+	at scala.meta.internal.pc.PcDocumentHighlightProvider$.highlights(PcDocumentHighlightProvider.scala:276)
+
+2022.10.13 21:06:57 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:06:58 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:08:13 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:08:15 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:10:34 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:10:38 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:10:41 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:10:47 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:11:06 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:11:58 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:12:01 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:12:03 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:12:15 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:12:18 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:12:21 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:12:23 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:12:31 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:12:34 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:12:35 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:12:39 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:12:44 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:12:49 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:13:53 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:13:55 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:14:01 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:14:05 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:14:07 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:14:10 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:16:50 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:18:07 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:18:09 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:18:12 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:18:17 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:18:19 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:18:22 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:18:27 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:18:29 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:18:32 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:18:33 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:18:35 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:18:36 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:19:30 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:19:33 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:19:39 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:19:53 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:19:55 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:19:58 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:20:05 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:20:07 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:20:27 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:20:40 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:20:52 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:21:22 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:21:27 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:21:33 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:21:41 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:21:43 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:21:44 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:21:47 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:21:48 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:22:00 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:22:02 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:22:04 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:22:05 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:22:09 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:22:12 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:22:18 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:22:19 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:22:22 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:22:26 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:22:28 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:22:31 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:23:08 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:23:20 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:23:33 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.10.13 21:27:37 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/project_tasks/src/main/scala/Bank.scala
+2022.10.13 21:27:37 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/project_tasks/src/main/scala/Main.scala
+2022.10.13 21:28:28 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:28:39 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:28:40 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:28:43 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:29:39 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:29:43 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:29:45 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:29:48 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:31:57 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:32:00 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:32:03 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:32:12 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:32:13 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:32:17 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:33:22 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:33:26 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:33:34 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:33:47 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:33:50 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:33:55 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:33:57 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:34:40 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:34:54 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:35:01 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:35:04 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:36:17 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:36:19 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:36:21 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:36:26 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:36:28 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:36:30 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:36:32 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:36:36 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:36:43 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:36:45 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:36:50 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:36:52 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:36:53 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:36:56 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:37:03 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:37:14 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:37:16 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:37:44 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:37:46 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:37:48 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:37:49 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:38:00 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:38:06 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:38:08 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:38:21 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:38:51 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:51:28 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:51:30 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:51:31 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:51:34 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:51:37 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:51:39 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:51:41 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:51:42 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:51:46 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:51:47 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:51:49 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:51:52 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:51:57 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:51:59 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:52:06 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+okt. 13, 2022 9:52:16 P.M. scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: sourcecode/Name
+java.lang.NoClassDefFoundError: sourcecode/Name
+	at scala.meta.internal.tokenizers.XmlParser$Xml$.UnpStart(XmlParser.scala:48)
+	at scala.meta.internal.tokenizers.XmlParser$Xml$.Unparsed(XmlParser.scala:47)
+	at scala.meta.internal.tokenizers.XmlParser$Xml$.XmlContent(XmlParser.scala:43)
+	at scala.meta.internal.tokenizers.XmlParser.$anonfun$XmlExpr$1(XmlParser.scala:24)
+	at scala.meta.internal.fastparse.internal.RepImpls$.rec$4(RepImpls.scala:358)
+	at scala.meta.internal.fastparse.internal.RepImpls$.rep$extension(RepImpls.scala:398)
+	at scala.meta.internal.fastparse.package$ByNameOps$.rep$extension(package.scala:271)
+	at scala.meta.internal.tokenizers.XmlParser.XmlExpr(XmlParser.scala:24)
+	at scala.meta.internal.tokenizers.LegacyScanner.$anonfun$getXml$2(LegacyScanner.scala:967)
+	at scala.meta.internal.fastparse.package$.parseInputRaw(package.scala:71)
+	at scala.meta.internal.fastparse.Parsed$Extra.trace(Parsed.scala:141)
+	at scala.meta.internal.fastparse.Parsed$Extra.traced(Parsed.scala:120)
+	at scala.meta.internal.tokenizers.LegacyScanner.getXml(LegacyScanner.scala:971)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchLT$1(LegacyScanner.scala:329)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:337)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:245)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1046)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.pc.ScriptFirstImportPosition$.tokenize(ScriptFirstImportPosition.scala:105)
+	at scala.meta.internal.pc.ScriptFirstImportPosition$.skipPrefixesOffset(ScriptFirstImportPosition.scala:58)
+	at scala.meta.internal.pc.ScriptFirstImportPosition$.skipUsingDirectivesOffset(ScriptFirstImportPosition.scala:55)
+	at scala.meta.internal.pc.AutoImports$.forScalaSource$1$$anonfun$1(AutoImports.scala:278)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.pc.AutoImports$.forScalaSource$1(AutoImports.scala:288)
+	at scala.meta.internal.pc.AutoImports$.autoImportPosition$$anonfun$1(AutoImports.scala:327)
+	at scala.Option.orElse(Option.scala:477)
+	at scala.meta.internal.pc.AutoImports$.autoImportPosition(AutoImports.scala:327)
+	at scala.meta.internal.pc.AutoImports$.generator(AutoImports.scala:101)
+	at scala.meta.internal.pc.completions.CompletionProvider.completions(CompletionProvider.scala:84)
+Caused by: java.lang.ClassNotFoundException: sourcecode.Name
+	at java.base/java.net.URLClassLoader.findClass(URLClassLoader.java:445)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:587)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	... 35 more
+
+2022.10.13 21:52:18 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:52:22 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:52:26 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:52:57 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:52:59 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:53:02 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:53:04 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:53:06 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.13 21:59:44 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.14 09:57:27 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+okt. 17, 2022 2:17:36 P.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2022.10.18 10:35:08 INFO  shutting down Metals
+2022.10.28 11:12:41 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/.metals/lsp.trace.json or /Users/nicolaimolstad/Library/Caches/org.scalameta.metals/lsp.trace.json
+2022.10.28 11:12:43 INFO  logging to file /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/.metals/metals.log
+2022.10.28 11:12:43 INFO  Started: Metals version 0.11.9 in workspace '/Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1' for client Visual Studio Code 1.72.2.
+2022.10.28 11:12:47 INFO  time: initialize in 3.56s
+2022.10.28 11:12:51 WARN  Build server is not auto-connectable.
+2022.10.28 11:12:51 WARN  no build tool detected in workspace '/Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.10.28 11:12:51 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:12:57 INFO  no build target found for /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala. Using presentation compiler with project's scala-library version: 3.2.0
+2022.10.28 11:13:01 INFO  time: code lens generation in 8.79s
+2022.10.28 11:13:26 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:13:27 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:13:31 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:14:19 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:14:38 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:14:40 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:14:54 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:14:57 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:16:07 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:16:16 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:16:22 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:16:46 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:16:50 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:16:54 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:16:57 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:16:59 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:17:05 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:17:29 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:17:31 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:18:09 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:18:12 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:18:15 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:18:17 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:18:30 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:18:34 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:18:38 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:18:40 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:18:43 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:18:46 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:18:52 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:18:59 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+okt. 28, 2022 11:19:07 A.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "copilot:GitHub%20Copilot?%5B%22file%3A%2F%2F%2FUsers%2Fnicolaimolstad%2FCode%2FProgramingLanguages%2FScalaAssignment1%2Ftasks%2FTask2.scala%22%2C%7B%22prependToCompletion%22%3A%22%22%2C%22appendToCompletion%22%3A%22%22%2C%22indentation%22%3Anull%2C%22completionType%22%3A2%2C%22insertPosition%22%3A%7B%22line%22%3A6%2C%22character%22%3A8%7D%7D%2C%22%22%5D#0"
+  ]
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.nio.file.FileSystemNotFoundException: Provider "copilot" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:117)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:143)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:609)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:606)
+	at scala.meta.internal.metals.MetalsLanguageServer.didFocus(MetalsLanguageServer.scala:1169)
+	... 16 more
+
+2022.10.28 11:19:38 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:19:42 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:20:41 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:20:45 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:20:49 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:20:51 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:21:15 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:21:17 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:21:29 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:21:32 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:21:34 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:21:38 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:21:43 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:22:35 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:22:42 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:22:44 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:22:46 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:22:49 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:22:53 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:22:54 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:23:21 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:23:23 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:23:25 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:23:30 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:23:58 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:23:59 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:24:05 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:24:09 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:25:24 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:25:37 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:25:39 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:25:45 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:25:46 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:28:27 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:28:41 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:28:44 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:28:51 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:28:53 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:28:58 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:29:16 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:29:22 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:29:28 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:29:31 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:29:40 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:30:24 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:30:27 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:31:32 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:32:05 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:32:13 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:32:14 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:32:16 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:32:18 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:32:19 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:32:21 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:32:22 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:32:24 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:32:26 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:32:32 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:32:36 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:32:40 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:33:01 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:33:05 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:33:12 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:35:22 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:35:27 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:40:21 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:40:21 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:40:23 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:40:25 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:40:27 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:41:04 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:42:41 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:42:43 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:42:46 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:42:47 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:42:55 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:43:05 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:43:07 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:43:09 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:43:16 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:43:19 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:43:22 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+okt. 28, 2022 11:43:43 A.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1179
+2022.10.28 11:43:45 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:44:33 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:44:49 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:44:52 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:45:00 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:45:24 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:45:28 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:45:32 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:46:10 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:46:11 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:46:14 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:46:16 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:46:21 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:46:23 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:46:26 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:46:29 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:46:49 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:47:18 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:47:20 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:47:22 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:47:46 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:48:20 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:48:26 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:48:29 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:49:00 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:49:02 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:49:04 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:49:07 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:49:10 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:49:13 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.10.28 11:59:22 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:59:26 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:59:30 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:59:33 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.10.28 11:59:46 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+okt. 28, 2022 12:24:09 P.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+okt. 31, 2022 2:42:49 P.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+okt. 31, 2022 2:47:55 P.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+okt. 31, 2022 2:47:59 P.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+okt. 31, 2022 2:48:04 P.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+okt. 31, 2022 2:49:31 P.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+okt. 31, 2022 4:09:50 P.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2022.11.01 16:34:10 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+nov. 01, 2022 4:34:12 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1612
+2022.11.01 16:34:13 INFO  time: code lens generation in 1.15s
+2022.11.02 15:01:28 INFO  shutting down Metals
+2022.11.02 15:11:06 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/.metals/lsp.trace.json or /Users/nicolaimolstad/Library/Caches/org.scalameta.metals/lsp.trace.json
+2022.11.02 15:11:07 INFO  logging to file /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/.metals/metals.log
+2022.11.02 15:11:07 INFO  Started: Metals version 0.11.9 in workspace '/Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1' for client Visual Studio Code 1.72.2.
+2022.11.02 15:11:08 INFO  time: initialize in 1.56s
+2022.11.02 15:11:11 WARN  Build server is not auto-connectable.
+2022.11.02 15:11:11 WARN  no build tool detected in workspace '/Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.11.02 15:11:11 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.11.02 15:11:11 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+nov. 02, 2022 3:11:11 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+nov. 02, 2022 3:11:11 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4
+nov. 02, 2022 3:11:11 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+nov. 02, 2022 3:11:11 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+2022.11.02 15:11:15 INFO  no build target found for /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala. Using presentation compiler with project's scala-library version: 3.2.0
+2022.11.02 15:11:17 INFO  time: code lens generation in 5.29s
+2022.11.02 15:11:17 INFO  time: code lens generation in 6.06s
+2022.11.02 15:12:48 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.11.03 22:14:02 INFO  shutting down Metals
+2022.11.07 15:16:48 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/.metals/lsp.trace.json or /Users/nicolaimolstad/Library/Caches/org.scalameta.metals/lsp.trace.json
+2022.11.07 15:16:50 INFO  logging to file /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/.metals/metals.log
+2022.11.07 15:16:50 INFO  Started: Metals version 0.11.9 in workspace '/Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1' for client Visual Studio Code 1.72.2.
+2022.11.07 15:16:52 INFO  time: initialize in 2.45s
+2022.11.07 15:16:55 WARN  Build server is not auto-connectable.
+2022.11.07 15:16:55 WARN  no build tool detected in workspace '/Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.11.07 15:16:55 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.11.07 15:16:55 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.11.07 15:16:55 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala
+2022.11.07 15:17:00 INFO  no build target found for /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task1.scala. Using presentation compiler with project's scala-library version: 3.2.0
+2022.11.07 15:17:03 INFO  time: code lens generation in 7.58s
+2022.11.07 15:17:03 INFO  time: code lens generation in 7.58s
+2022.11.07 16:25:49 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.11.07 16:25:53 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/Task2.scala
+2022.11.07 17:31:27 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLockComp.scala
+2022.11.07 17:31:41 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.11.07 17:31:44 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.11.07 17:31:54 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.11.07 17:32:24 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.11.07 17:32:32 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.11.07 17:32:41 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.11.07 17:32:42 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.11.07 17:32:45 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.11.07 17:33:45 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.11.07 17:33:48 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.11.07 17:33:55 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.11.07 17:34:42 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.11.07 17:34:57 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.11.07 17:34:59 WARN  no build target for: /Users/nicolaimolstad/Code/ProgramingLanguages/ScalaAssignment1/tasks/DeadLock.scala
+2022.11.08 11:18:02 INFO  shutting down Metals
